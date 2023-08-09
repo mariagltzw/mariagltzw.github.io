@@ -1,8 +1,8 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: CV - Check out the attached PDF!
 nav: true
 nav_order: 4
-cv_pdf: Academic_CV_Gueltzow_032023.pdf
+cv_pdf: CV_Gueltzow_0823.pdf
 ---
