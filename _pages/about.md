@@ -21,4 +21,4 @@ I will continue my work on mental health and health inequalities with a focus on
 
 I hold a PhD in Public Health from the Erasmus University Rotterdam. My PhD research was conducted at the [Max Planck Institute for Demographic Research](https://www.demogr.mpg.de/de), in affilitation with the [Erasmus Medical Center Rotterdam](https://www.erasmusmc.nl/en/pages/about-erasmusmc).
 The topic of my dissertation was to explore mechanisms underlying subgroup variation in mental health through the use of the counterfactual outcomes framework and genetically informed designs.
-You can find it here: https://pure.eur.nl/en/publications/digging-deeper-exploring-mechanisms-underlying-subgroup-variation
+You can find it [here](https://pure.eur.nl/en/publications/digging-deeper-exploring-mechanisms-underlying-subgroup-variation)
