@@ -73,7 +73,6 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: mariagltzw # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: MGultzow # your Twitter handle
-bluesky_url: https://bsky.app/profile/mgueltzow.bsky.social # your bluesky URL
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
@@ -102,7 +101,11 @@ instagram_id: # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
-
+custom_social: # can be any name here other than the ones already defined above
+  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/600px-Bluesky_Logo.svg.png
+ # can be png, svg, jpg
+  title: bluesky
+  url: https://bsky.app/profile/mgueltzow.bsky.social
 contact_note: 
   #You can even add a little note about which of these is the best way to reach you.
 
